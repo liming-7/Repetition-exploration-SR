@@ -1,0 +1,4 @@
+embedding_size: 64
+hidden_size: 64
+joint_train: True
+dropout_prob: 0.5
